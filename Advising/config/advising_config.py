@@ -1,0 +1,3 @@
+SERVERDB= "192.168.6.54"
+USERNAME= "academic_advisor_user"
+PASSWORD="FEh6KCX5MV67"

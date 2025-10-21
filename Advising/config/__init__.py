@@ -1,2 +1,2 @@
-from .advising_config import settings
-__all__ = ['settings']
+from .advising_config import settings,AdvisingConfig
+__all__ = ['settings','AdvisingConfig']
